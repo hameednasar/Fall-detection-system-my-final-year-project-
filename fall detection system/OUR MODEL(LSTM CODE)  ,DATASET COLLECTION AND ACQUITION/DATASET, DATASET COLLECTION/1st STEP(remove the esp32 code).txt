@@ -1,0 +1,7 @@
+void setup() {
+  // nothing here
+}
+
+void loop() {
+  // nothing here
+}
